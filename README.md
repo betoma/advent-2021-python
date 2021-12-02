@@ -1,1 +1,1 @@
-# My Python Solutions to the 2021 Advent of Code
+<h3><img src="https://media0.giphy.com/media/kGw6venoS74wqNyF6Y/giphy.gif" width="100"> 2021 Advent of Code (Python) <img src="https://media0.giphy.com/media/kGw6venoS74wqNyF6Y/giphy.gif" width="100"></h3>
